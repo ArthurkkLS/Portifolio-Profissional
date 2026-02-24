@@ -14,7 +14,7 @@ Portifólio particular para reunir projetos, experiencias e informações sobre 
   ### Sobre mim
   ![Sobre mim](src/assets/images/Wireframes/Sobre.png)
   ### Projetos
-  ![Projetos](src/assets/images/Wireframes/Home.png)
+  ![Projetos](src/assets/images/Wireframes/Projetos.png)
   ### Contato v1 & V2
   ![Contato](src/assets/images/Wireframes/Contato.png)
   ### Experiências
