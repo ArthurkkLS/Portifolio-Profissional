@@ -20,7 +20,7 @@ function Scene({ onSelect }) {
 
       <img
         src={filecabinet} alt="File Cabinet"
-        className="object file cabinet"
+        className="object filecabinet"
         onClick={() => onSelect("projetos")}
       />
 
