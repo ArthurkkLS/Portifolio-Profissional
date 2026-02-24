@@ -1,26 +1,31 @@
+import bookshelf from "../assets/images/bookshelf.svg"
+import phone from "../assets/images/phone.svg"
+import filecabinet from "../assets/images/filecabinet.svg"
+import portrait from "../assets/images/portrait.svg"
+
 function Scene({ onSelect }) {
   return (
     <div className="scene">
         <img
-        src="/images/bookshelf.svg"
+        src={bookshelf} alt="Bookshelf"
         className="object bookshelf"
         onClick={() => onSelect("experiencias")}
       />
 
       <img
-        src="/images/phone.svg"
+        src={phone} alt="Phone"
         className="object phone"
         onClick={() => onSelect("contato")}
       />
 
       <img
-        src="/images/filecabinet.svg"
-        className="object board"
+        src={filecabinet} alt="File Cabinet"
+        className="object file cabinet"
         onClick={() => onSelect("projetos")}
       />
 
       <img
-        src="/images/portrait.svg"
+        src={portrait} alt="Portrait"
         className="object portrait"
         onClick={() => onSelect("sobre")}
       />

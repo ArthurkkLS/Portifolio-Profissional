@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Scene from ".\components\Scene.jsx";
+import Scene from "./components/Scene";
 import ZoomView from "./components/ZoomView";
 
 function App() {
