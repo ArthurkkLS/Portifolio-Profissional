@@ -10,12 +10,12 @@ Portifólio particular para reunir projetos, experiencias e informações sobre 
 
 ## Protótipos (Wireframes)
   ### Home V1 & V2
-  ![Home](images/Home.png)
+  ![Home](src/assets/images/Wireframes/Home.png)
   ### Sobre mim
-  ![Sobre mim](images/Sobre.png)
+  ![Sobre mim](src/assets/images/Wireframes/Sobre.png)
   ### Projetos
-  ![Projetos](images/Home.png)
+  ![Projetos](src/assets/images/Wireframes/Home.png)
   ### Contato v1 & V2
-  ![Contato](images/Contato.png)
+  ![Contato](src/assets/images/Wireframes/Contato.png)
   ### Experiências
-  ![Experiências](images/Experiencias.png)
+  ![Experiências](src/assets/images/Wireframes/Experiencias.png)
