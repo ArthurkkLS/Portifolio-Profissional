@@ -8,8 +8,8 @@ Portifólio particular para reunir projetos, experiencias e informações sobre 
   - Javascript
 
 ## Protótipos (Wireframes)
-  [Home]{images/Home.png}
-  [Sobre mim]{images/Sobre.png}
-  [Projetos]{images/Home.png}
-  [Contato]{images/Contato.png}
-  [Experiências]{images/Experiencias.png}
+  ![Home]{images/Home.png}
+  ![Sobre mim]{images/Sobre.png}
+  ![Projetos]{images/Home.png}
+  ![Contato]{images/Contato.png}
+  ![Experiências]{images/Experiencias.png}
