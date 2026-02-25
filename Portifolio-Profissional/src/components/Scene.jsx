@@ -7,6 +7,8 @@ import { gsap } from "gsap";
 
 function Scene({ onSelect }) {
 
+  const phoneRef = useRef();
+
   const vibrate = () => {
     gsap.fromTo(
       phoneRef.current,
@@ -33,6 +35,8 @@ function Scene({ onSelect }) {
         src={phone} alt="Phone"
         className="object phone"
         onClick={() => onSelect("contato")}
+        ref={phoneRef}
+        onMouseEnter={vibrate}
       />
 
       <img
@@ -46,17 +50,6 @@ function Scene({ onSelect }) {
         className="object portrait"
         onClick={() => onSelect("sobre")}
       />
-
-      {/* Vibrate Phone   */}
-      <img
-        src={phone}
-        ref={phoneRef}
-        className="object phone"
-        onMouseEnter={vibrate}
-      />
-
-
-
     </div>
 
       
